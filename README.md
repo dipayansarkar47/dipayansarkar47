@@ -1,12 +1,12 @@
 # Hey There, I'm Dipayan😁
-<h4>A Flutter developer from India</h4>
+<h4>A Full-Stack developer from India</h4>
 
-- 🔭 I’m currently working on a Flutter Project
-- 🌱 I’m currently learning Cryptography, Solidity
-- 👯 I’m looking to collaborate on Instagram 
-- 💬 Ask me about Crypto and Flutter
+- 🔭 I’m currently working on a MERN Project
+- 🌱 I’m Interested to work on Web 3.0
+- 👯 I’m making the world better by PRs 
+- 💬 Ask me about Technology & Finance
 - 📫 How to reach me: dipayansarkar265482@gmail.com
-- ⚡ Fun fact: I'm currently studying BTech Computer Science
+- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
 
